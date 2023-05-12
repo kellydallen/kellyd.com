@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `kellyd.com`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `David Allen Kelly`,
+      summary: `a.k.a kelly d who lives and works in West Palm Beach, FL.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `kellyd.com blog`,
+    siteUrl: `https://kellyd.com/`,
     social: {
-      twitter: `kylemathews`,
+      bluesky: `eschatonic.bsky.social`,
     },
   },
   plugins: [
